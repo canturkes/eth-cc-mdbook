@@ -8,7 +8,7 @@ title = "mdBook Getting Started Guide"
 build-dir = "book"
 
 [output.html]
-git-repository-url = "https://github.com/oetiker/eth-cc-mdbook"
+git-repository-url = "https://github.com/canturkes/eth-cc-mdbook"
 additional-css = ["./theme/custom.css"]
 additional-js = ["mermaid.min.js", "mermaid-init.js"]
 
